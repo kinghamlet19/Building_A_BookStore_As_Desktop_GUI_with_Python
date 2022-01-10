@@ -49,6 +49,4 @@ def update(id,title, author, year, isbn):
 
 
 connect()
-update(2, "Nondini","FAisal",2020, 37473938)
-print(view())
-print(search(author="FAisal"))
+
